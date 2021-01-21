@@ -5,6 +5,9 @@ import org.testng.annotations.Test;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
+/**
+ * @author vika
+ */
 public class BMI_Calculator {
     @Test
     public void calcTest45() {
